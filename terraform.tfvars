@@ -1,0 +1,6 @@
+cidr_block = "10.0.0.0/16"
+public_subnet_cidr = "10.0.1.0/24"
+availability_zone = "us-east-1b"
+ami = "ami-0953476d60561c955"
+instance_type = "t2.micro"
+key_name = "Test-Key"
